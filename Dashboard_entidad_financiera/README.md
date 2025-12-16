@@ -1,6 +1,6 @@
 # Reporte Dashboard Banco Estado
 
-## Dashboard Evaluacion Desempeño Colaboradoress
+## Dashboard Evaluación Desempeño Colaboradores
 
 ![alt text](dashboard-1.png)
 
